@@ -1,0 +1,47 @@
+.wrapper {
+	display: none;
+}
+body{
+    background-color: rgb(0, 11, 14);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 30px;
+}
+#questions-container{
+    color: white;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+button{
+    text-align: center;
+    left: 42%;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    margin: 50px auto 10px auto;
+    clear: both;
+}
+.startgame{
+    left: 45%;
+}
+#donebutton{
+    left: 45%;
+    clear: both;
+}
+
+.timer{
+    color: rgba(255, 40, 40, 0.548);
+    text-align: center;
+    font-size: 50px;
+}
+.results{
+    color: rgba(255, 40, 40, 0.548);
+    text-align: center;
+    font-size: 50px;
+}
+.message{
+    color: white;
+}
